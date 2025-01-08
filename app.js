@@ -56,7 +56,7 @@ async function getAccessToken() {
 }
 
 app.get("/", (req, res) => {
-  res.send("MPESA DARAJA API WITH NODE JS BY UMESKIA SOFTWARES");
+  res.send("MPESA DARAJA API BY MUMBA");
   var timeStamp = moment().format("YYYYMMDDHHmmss");
   console.log(timeStamp);
 });
