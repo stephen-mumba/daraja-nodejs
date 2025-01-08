@@ -1,7 +1,5 @@
 # Mpesa-Daraja-Api-NODE.JS
 
-Here is the youtube video link: https://youtube.com/playlist?list=PLL9VrPrscsUYv0BGf430fxiHEw5E2gdDV
-
 How to install this projet
 
 1. Clone the project
@@ -42,19 +40,11 @@ How to contribute
 
 How to contact me
 
-1. Email: alvo967@gmail.com
+1. Email: iamnotmumba@gmail.com
 
-3. Facebook: Alvin Kiveu
+2. WhatsApp: +254 797 417 841
 
-4. Instagram: Alvin_Kiveu
-
-5. LinkedIn: Alvin Kiveu
-
-6. WhatsApp: +254 768 168 060
-
-8. Phone: +254 768 168 060
-
-9. Website: https://umeskiasoftwares.com
+3. Phone: +254 797 417 841
 
 
 Support us with the one of following ways
@@ -65,7 +55,7 @@ Support us with the one of following ways
 
 3. Follow me on GitHub
 
-4. Tip me via Mpesa Till Number: 59 26 541
+4. Tip me via Mpesa Till Number: 4496496
 
 
 
